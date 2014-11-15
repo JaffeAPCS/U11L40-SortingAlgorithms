@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=arr
+comment0.target=int[]\ sort(int[])
+comment0.text=\n\ Merge\ sort\n\ \n\ @param\ arr\ The\ array\ to\ sort\n\ @return\ The\ sorted\ array\n
+comment1.params=left\ right
+comment1.target=int[]\ merge(int[],\ int[])
+comment1.text=\n\ Merge\ the\ left\ and\ right\ arrays\n\ \n\ @param\ left\ The\ left\ half\ array\n\ @param\ right\ The\ right\ half\ array\n\ @return\ The\ array\ that\ results\ when\ the\ left\ and\ right\ are\ merged\n
+comment2.params=arr
+comment2.target=void\ printArray(int[])
+comment2.text=\n\ Prints\ the\ array\ with\ a\ column\ header\ to\ the\ terminal\ window\n\ \n\ @param\ arr\ The\ array\ to\ print\n
+numComments=3
